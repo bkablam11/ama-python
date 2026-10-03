@@ -1,0 +1,28 @@
+id_produit,nom_produit,categorie,prix_unitaire
+P001,Riz parfumé 5 kg,Alimentation,4500
+P002,Huile végétale 1 L,Alimentation,1300
+P003,Sucre en poudre 1 kg,Alimentation,800
+P004,Gari 1 kg,Alimentation,600
+P005,Tomate concentrée 400 g,Alimentation,700
+P006,Lait en poudre 400 g,Alimentation,2500
+P007,Spaghetti 500 g,Alimentation,450
+P008,Farine de blé 1 kg,Alimentation,700
+P009,"Eau minérale 1,5 L",Boissons,400
+P010,Soda 33 cl,Boissons,400
+P011,Jus d'ananas 1 L,Boissons,1200
+P012,Bière 65 cl,Boissons,700
+P013,Malt 33 cl,Boissons,500
+P014,Savon de toilette,Hygiène,350
+P015,Dentifrice 100 ml,Hygiène,900
+P016,Lessive 1 kg,Hygiène,1500
+P017,Papier toilette x4,Hygiène,1200
+P018,Crème corporelle,Hygiène,2800
+P019,Écouteurs filaires,Électronique,3500
+P020,Chargeur USB-C,Électronique,4000
+P021,Batterie externe 10 000 mAh,Électronique,12000
+P022,Ampoule LED,Électronique,1500
+P023,Ventilateur de table,Électronique,18000
+P024,Seau 15 L,Maison,2000
+P025,Balai,Maison,1000
+P026,Assiettes x6,Maison,5000
+P027,Moustiquaire,Maison,6500
